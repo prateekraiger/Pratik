@@ -1,28 +1,10 @@
-<!-- Portfolio Section -->
+### Meet Pratik — Full-Stack Developer
 
-# **Meet Pratik**
-### **Full-Stack Developer**
+🌐 **Portfolio:** [https://pratik-me.pages.dev](https://pratik-me.pages.dev)
 
+I build smooth, thoughtful interfaces on the front and stable, no-nonsense systems on the back. My work leans on clean design, clear logic, and a bit of personality.
+
+If you want to discuss a project or collaborate: **[Prat1k](https://www.instagram.com/dev.prat1k/)**
+
+**↓ My work lives across these repos — the portfolio link above ties it all together ↓**
 ---
-
-## 🌐 **Portfolio**
-### **https://pratik-me.pages.dev**
-
----
-
-## 👨‍💻 **What I Do**
-
-I design smooth, clear interfaces on the front  
-and build stable, efficient systems on the back.  
-Everything I ship focuses on clarity, reliability, and a bit of personal style.
-
----
-
-## 📬 **Contact**
-**Email:** prateekraiger@gmail.com  
-Feel free to reach out for collaborations, freelance work, or interesting ideas.
-
----
-
-## 🔽 **Explore the Portfolio**
-### It explains me better than any bio ever will.
