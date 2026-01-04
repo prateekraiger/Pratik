@@ -1,6 +1,6 @@
 ### Meet Pratik — Full-Stack Developer
 
-🌐 **Portfolio:** [https://pratik-me.pages.dev](https://pratik-me.pages.dev)
+🌐 **Portfolio:** [https://www.pratikdev.site/](https://www.pratikdev.site/)
 
 I build smooth, thoughtful interfaces on the front and stable, no-nonsense systems on the back. My work leans on clean design, clear logic, and a bit of personality.
 
